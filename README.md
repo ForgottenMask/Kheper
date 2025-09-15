@@ -1,4 +1,4 @@
-#Kheper
+# Kheper
 
 Divinity reborn in a world of neon skies and flying ships.
 Kheper is a story-driven action and investigation game where divinity is reborn in a society of steel and neon. You play as a God returned to mortal form, navigating a sprawling futuristic world of towering skylines, speeding hover-cars, and colossal flying ships.
@@ -7,15 +7,10 @@ Play solo or with a friend in seamless co-op, combining fast-paced combat, envir
 
 The game combines fast-paced combat with investigative gameplay in both solo and co-op modes.
 
-Repository Includes:
+## Repository Includes:
 
-• Character progression and ability systems
-
-• Action combat framework
-
-• Investigation & dialogue-driven branching paths	
-
-• Co-op gameplay integration (network-ready)
-
-• Documentation and design notes
-
+- Character progression and ability systems
+- Action combat framework
+- Investigation & dialogue-driven branching paths	
+- Co-op gameplay integration (network-ready)
+- Documentation and design notes
