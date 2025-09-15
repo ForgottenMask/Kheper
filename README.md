@@ -7,10 +7,16 @@ Play solo or with a friend in seamless co-op, combining fast-paced combat, envir
 
 The game combines fast-paced combat with investigative gameplay in both solo and co-op modes.
 
-## Repository Includes:
+## Features
 
-- Character progression and ability systems
-- Action combat framework
-- Investigation & dialogue-driven branching paths	
-- Co-op gameplay integration (network-ready)
-- Documentation and design notes
+## Tech Stack
+- Unreal Engine 5.6 (C++ & Blueprints)  
+- Blender (3D modeling & animation)  
+- GitHub (version control & collaboration)  
+
+## For Modders 
+- Custom narrative system
+- Modular gameplay framework
+- Narrative framework for branching storylines
+- Environmental systems for investigation, Combat, and exploration
+- Documentation for extending or modding
